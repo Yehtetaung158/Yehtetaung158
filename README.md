@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ye Htet Aung</h1>
 <h3 align="center">A passionate web developer from Myanmar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehtetaung158&label=Profile%20views&color=0e75b6&style=flat" alt="yehtetaung158" /> </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
